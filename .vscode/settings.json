@@ -1,3 +1,5 @@
 {
-    "C_Cpp.errorSquiggles": "disabled"
+  "cmake.generator": "Ninja",
+  "cmake.preferredGenerators": ["Ninja", "Visual Studio 17 2022"],
+  "cmake.configureOnOpen": true
 }
